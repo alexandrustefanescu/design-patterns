@@ -1,0 +1,26 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design Patterns (Most Common) written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrustefanescu/design-patterns.git"
+  },
+  "keywords": [
+    "design",
+    "patterns"
+  ],
+  "author": "Alexandru Stefanescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandrustefanescu/design-patterns/issues"
+  },
+  "homepage": "https://github.com/alexandrustefanescu/design-patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
